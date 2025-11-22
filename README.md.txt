@@ -1,3 +1,5 @@
+![Dashboard Preview](Screenshots/dashboard.png)
+
 🏥 Hospital Emergency Room Analytics Dashboard (Excel + Power Query)
 
 This project presents a real-world style Emergency Room (ER) analytics dashboard, designed using Microsoft Excel, Power Query, and Power Pivot.
