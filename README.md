@@ -11,7 +11,7 @@
 
 <hr>
 
-![Dashboard Preview](Screenshots/Gig1_Dashboard_Hospital_ER.png)
+![Dashboard Preview](Screenshots/Gig1_Dashboard_Hospital_ER.PNG)
 
 🏥 Hospital Emergency Room Analytics Dashboard (Excel + Power Query)
 
