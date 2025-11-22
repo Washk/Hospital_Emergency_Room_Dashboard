@@ -1,3 +1,16 @@
+<h1 align="center">🏥 Hospital ER Analytics Dashboard</h1>
+<p align="center"><b>Excel • Power Query • Power Pivot</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-Power%20Query-1D6F42?style=flat" />
+<img src="https://img.shields.io/badge/Modeling-Power%20Pivot-0F3E8C?style=flat" />
+<img src="https://img.shields.io/badge/Visualization-Dashboard-2A62D4?style=flat" />
+<img src="https://img.shields.io/badge/License-MIT-blue?style=flat" />
+</p>
+
+<hr>
+
 ![Dashboard Preview](Screenshots/Gig1_Dashboard_Hospital_ER.png)
 
 🏥 Hospital Emergency Room Analytics Dashboard (Excel + Power Query)
